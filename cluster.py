@@ -2,7 +2,7 @@ from sklearn.cluster import KMeans
 import pandas as pd
 
 # Load the data
-data = pd.read_csv("spider1.csv")
+data = pd.read_csv("spider2.csv")
 
 data.head()
 
